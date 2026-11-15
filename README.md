@@ -18,6 +18,7 @@ VHDL / Verilog / Vivado :
 - [Pseudo Dual Edge Triggered Flip Flop](https://github.com/amit-dvp/dual_edge_ff)
 - [Low Pass IIR EWMA filter](https://github.com/amit-dvp/EWMA_IIR_filter)
 - [Detection Pulse Rise Time by Oversampling](https://github.com/amit-dvp/oversampled_pulse_detect)
+- [AD9259 ADC Source Synchronous DDR Interface (LVDS)](https://github.com/amit-dvp/AD9259_source_synch_ddr_if)
 
 C :
 - [Assembler implementation](https://github.com/amit-dvp/c_asm_proj)
