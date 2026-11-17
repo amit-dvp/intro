@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td><em>C</em></td>
-    <td><em>Linux</em></td>
+    <td><em>Vitis</em></td>
     <td><em>Docker</em></td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@
   <tr>
     <td><em>STM32</em></td>
     <td><em>STM32CubeIDE</em></td>
-    <td><em>Vitis</em></td>
+    <td><em>Linux</em></td>
   </tr>
 </table>
 
