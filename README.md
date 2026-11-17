@@ -1,16 +1,33 @@
 ## Hi, I'm Amit :wave: 
 ### Skills
 
-
-
-||||
-| :---: | :---: | :---: |
-| *VHDL* | *Questa* |*Modelsim*|
-| *Verilog* |*Vivado* |*Quartus*|
-| *C* |*Linux* |*Docker*|
-| *Python* | *Git* | *GitHub*|
-| *Bash* |*MATLAB*|	*Simulink* |
-
+<table>
+  <tr>
+    <td><em>VHDL</em></td>
+    <td><em>Questa</em></td>
+    <td><em>Modelsim</em></td>
+  </tr>
+  <tr>
+    <td><em>Verilog</em></td>
+    <td><em>Vivado</em></td>
+    <td><em>Quartus</em></td>
+  </tr>
+  <tr>
+    <td><em>C</em></td>
+    <td><em>Linux</em></td>
+    <td><em>Docker</em></td>
+  </tr>
+  <tr>
+    <td><em>Python</em></td>
+    <td><em>Git</em></td>
+    <td><em>GitHub</em></td>
+  </tr>
+  <tr>
+    <td><em>Bash</em></td>
+    <td><em>MATLAB</em></td>
+    <td><em>Simulink</em></td>
+  </tr>
+</table>
 
 
 ### Projects
