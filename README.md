@@ -27,6 +27,11 @@
     <td><em>MATLAB</em></td>
     <td><em>Simulink</em></td>
   </tr>
+  <tr>
+    <td><em>STM32</em></td>
+    <td><em>Arduino</em></td>
+    <td><em></em></td>
+  </tr>
 </table>
 
 
