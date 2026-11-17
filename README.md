@@ -29,8 +29,8 @@
   </tr>
   <tr>
     <td><em>STM32</em></td>
-    <td><em>Arduino</em></td>
-    <td><em></em></td>
+    <td><em>STM32CubeIDE</em></td>
+    <td><em>Vitis</em></td>
   </tr>
 </table>
 
