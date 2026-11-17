@@ -9,7 +9,7 @@
 | *Verilog* |*Vivado* |*Quartus*|
 | *C* |*Linux* |*Docker*|
 | *Python* | *Git* | *GitHub*|
-| *Bash* |*Matlab*|	:hammer_and_wrench: |
+| *Bash* |*Matlab*|	*Simulink* |
 
 
 
